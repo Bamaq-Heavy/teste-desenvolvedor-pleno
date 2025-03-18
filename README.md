@@ -4,7 +4,7 @@
 ### Descrição da vaga
 Atuar com o desenvolvimento e manutenção de soluções baseadas em tecnologia alinhadas com a demanda da empresa, através do uso de ferramentas com o API de Desenvolvimento PHP, SQL Server, PHP, Laravel e VueJs.
 
-Link da vaga: https://grupobamaq.gupy.io/jobs/7644735
+Link da vaga: https://grupobamaq.gupy.io/jobs/8788106
 
 ### Projeto: Sistema de Gerenciamento de Biblioteca
 ### Objetivo
